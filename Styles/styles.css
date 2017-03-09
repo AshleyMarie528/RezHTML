@@ -1,0 +1,25 @@
+
+h1{
+	color: white; font-size: 42px; 
+}
+
+p
+{color: green; font-size: 20px;
+font-family:algerian;
+}
+h2{
+font-family: Bernard MT Condensed; color: purple;
+font-size: 25px;
+font-weight: 789;
+}
+h3{
+	font-family:Bernard MT Condensed; color: purple;
+	font-size: 26px; font-weight 639;
+}
+#Dallabill{ font-family:broadway}
+body{
+background-image: url(background2.jpg);
+background-repeat: repeat;
+background-size: cover;
+font-size: 40px; font-family:Blackadder ITC;
+}

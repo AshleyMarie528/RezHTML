@@ -1,0 +1,17 @@
+h1 {
+	font-family: algerian; font-size: 23px; font-weight: 660; color: fuchsia;
+}
+h2 {
+	font-family: Bernard MT Condensed; font-size: 26px; color: blue;
+}
+h3 { font-family: Bernard MT Condensed; font-size: 26px; color: blue;
+}
+h4{
+	 font-family: Bernard MT Condensed; font-size: 26px; color: blue;
+}
+body {
+background-image: url("resumebackground.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment:fixed;
+}
